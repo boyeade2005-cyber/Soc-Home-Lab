@@ -1,0 +1,6 @@
+Internet
+                 │
+           [pfSense Firewall + Suricata IDS/IPS]
+                 │
+    ┌────────────┼────────────┐
+    │            │            │
